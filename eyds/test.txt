@@ -1,2 +1,4 @@
 Hello world!
 Amended changes 1
+Amended changes 2
+Amended changes 3
