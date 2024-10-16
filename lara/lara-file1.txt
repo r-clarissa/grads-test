@@ -1,5 +1,8 @@
 This is file1 -Lara
+<<<<<<< HEAD
 
 New edit from lara-test-branch
 
 cherry-pick
+=======
+>>>>>>> 5875055 (haha lara)

@@ -1,3 +1,6 @@
 This is file2 -Lara
+<<<<<<< HEAD
 
 amend content test
+=======
+>>>>>>> 5875055 (haha lara)
