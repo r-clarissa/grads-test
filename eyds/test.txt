@@ -1,6 +1,7 @@
 Hello world!
 Amended changes 1
 Amended changes 2
+Merge conflict testing 2
 Amended changes 3
 Rebasing test 1 source
 Rebase changes 1
