@@ -5,3 +5,4 @@ Merge conflict testing 2
 Amended changes 3
 Rebasing test 1 source
 Rebase changes 1
+Conflict change 1
